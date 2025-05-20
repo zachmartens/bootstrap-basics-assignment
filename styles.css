@@ -1,0 +1,21 @@
+body{
+    font-family: sans-serif;
+    background-color: #f9f9f9;
+}
+
+h2{
+    font-weight: 600;
+}
+
+.card-title{
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+.btn-lg{
+    width: 100%;
+}
+
+.navbar-brand{
+    font-weight: 700;
+}
