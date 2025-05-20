@@ -61,4 +61,4 @@ A demonstration of my comprehension around these subjects. Building a fully func
 
 ## Lessons Learned
 
-I learned very quickly how useful and efficient Bootstrap can be! Gained knowlege and ease around working with <div>s. While at this stage, I am often referencing notes and cheat sheets for reminders of what options I have around Bootstrap Utilities, my efficiency grew quickly and I feel confident that things are settling into my mind around the subject. Looking forward to learning more!
+I learned very quickly how useful and efficient Bootstrap can be! Gained knowlege and ease around working with divs. While at this stage, I am often referencing notes and cheat sheets for reminders of what options I have around Bootstrap Utilities, my efficiency grew quickly and I feel confident that things are settling into my mind around the subject. Looking forward to learning more!
